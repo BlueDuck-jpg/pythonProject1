@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+}
+
+#myquestion {
+    background-color: white;
+    border-radius: 1.3mm;
+    border-top: grey;
+    border-left: grey;
+    height: 70mm;
+    width: 100mm;
+    padding: 8px;
+}
+
+#mybutton {
+    background-color: lightblue;
+    border-radius: 1.3mm;
+    border-right: grey;
+    border-bottom: grey;
+}
+
+#discord {
+    background-color: white;
+    border-radius: 1.3mm;
+    border-top: grey;
+    border-left: grey;
+    height: 20px;
+    width: 50mm;
+}
